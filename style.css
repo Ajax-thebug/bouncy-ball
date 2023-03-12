@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Manrope', sans-serif;
+
+}
+
+canvas{
+
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.ball-text{
+    position: fixed;
+    color: white;
+    z-index: 2;
+    font-size: 5rem;
+    right: 20%;
+    bottom:40%;
+    transform: translate(-20%,-40%);
+
+}
+
+
+.footer{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    color: #3F403F;
+
+}
+
+#toggle-button{
+    padding: 1rem;
+    letter-spacing: 2px;
+    border-radius: 0px;
+    border-width: 1px;
+}

@@ -1,2 +1,2 @@
-# bouncy-ball
-Created webgl animation with GSAP &amp; Blender
+# Bouncy-ball
+Created WebGL animation with GSAP Framework (Javascript) &amp; Blender
